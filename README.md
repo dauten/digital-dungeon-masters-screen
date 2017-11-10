@@ -1,5 +1,6 @@
 # digital-dungeon-masters-screen
 python desktop application built as an excercise
+this version is discontinued and a c# version will be developed starting soon*
 
 # Current Features:
 ## Dice Roller
